@@ -10,7 +10,7 @@ O MIDI tem um teclado digitial com 9 botões, cada botão reproduzirá o som de 
 - JavaScript: O JavaScript proporcionará programarmos a dinâmica de controle de reprodução de um som, que a princípio está sendo realizada pelo elemento <audio>, e passarmos este controle para os elementos <button>, com todo o cuidado de fazer um código inteligente, sem repetição, que cuida também os aspectos visuais com CSS dinâmico.
 
 ## 📁 Acesso ao projeto
-
+https://jetakazono.github.io/aluramidi/
 
 ## 🛠️ Abrir e rodar o projeto
 Para abrir e rodar o projeto, basta abrir o aquivo index.html no navegador.
